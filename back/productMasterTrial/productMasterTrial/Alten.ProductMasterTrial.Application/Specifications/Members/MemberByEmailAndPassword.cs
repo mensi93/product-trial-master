@@ -1,13 +1,13 @@
-﻿using Alten.ProductMasterTrial.Domain.Entities;
+using Alten.ProductMasterTrial.Domain.Entities;
 using Ardalis.Specification;
 
 namespace Alten.ProductMaster.Application.Specifications.Members
 {
     public class MemberByEmailAndPassword : Specification<Member>
     {
-        public MemberByEmailAndPassword(string email,string password)
+        public MemberByEmailAndPassword(string email)
         {
-            Query.AsNoTracking().Where(u => u.Email.Value == email && u.Password == password);
+            Query.AsNoTracking().Where(u => u.Email.Value == email );
         }
     }
 }
