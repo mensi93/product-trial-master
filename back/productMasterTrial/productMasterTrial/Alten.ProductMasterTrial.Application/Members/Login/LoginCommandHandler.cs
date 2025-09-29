@@ -1,4 +1,5 @@
-﻿using Alten.ProductMaster.Application.Common.Authentication;
+using Alten.ProductMaster.Application.Authentication;
+using Alten.ProductMaster.Application.Common.Authentication;
 using Alten.ProductMaster.Application.Specifications.Members;
 using Alten.ProductMasterTrial.Application.Common.Abstractions.RequestHandler;
 using Alten.ProductMasterTrial.Application.Common.Interfaces;
@@ -21,11 +22,16 @@ namespace Alten.ProductMasterTrial.Application.Members.Login
         public async Task<Result<string>> Handle(LoginCommand request)
         {
 
-            var memberByEmailAndPassword = new MemberByEmailAndPassword(request.email, request.password);
+            var memberByEmailAndPassword = new MemberByEmailAndPassword(request.email);
 
             var member = await _memberRepository.FirstOrDefaultAsync(memberByEmailAndPassword);
 
             if (member == null) 
+            {
+                return Result.Failure<string>(DomainErrors.Member.InvalidCredentials);
+            }
+
+            if(!PasswordHasher.Verify(request.password, member.Password))
             {
                 return Result.Failure<string>(DomainErrors.Member.InvalidCredentials);
             }
