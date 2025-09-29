@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\productMasterTrial.props" />
+</Project>

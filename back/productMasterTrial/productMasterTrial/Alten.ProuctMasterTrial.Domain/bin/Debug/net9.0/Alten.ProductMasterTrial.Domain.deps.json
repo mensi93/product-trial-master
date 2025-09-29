@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Alten.ProductMasterTrial.Domain/1.0.0": {
+        "dependencies": {
+          "Alten.ProductMaster.SharedKirnel": "1.0.0"
+        },
+        "runtime": {
+          "Alten.ProductMasterTrial.Domain.dll": {}
+        }
+      },
+      "Alten.ProductMaster.SharedKirnel/1.0.0": {
+        "runtime": {
+          "Alten.ProductMaster.SharedKirnel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alten.ProductMasterTrial.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alten.ProductMaster.SharedKirnel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

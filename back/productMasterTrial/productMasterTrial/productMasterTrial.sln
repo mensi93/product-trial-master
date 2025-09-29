@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productMasterTrial", "productMasterTrial\productMasterTrial.csproj", "{C07C3185-56FD-4929-9D82-ACCEB7537B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alten.ProductMaster.Domain", "Alten.ProuctMasterTrial.Domain\Alten.ProductMaster.Domain.csproj", "{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alten.ProductMaster.Application", "Alten.ProductMasterTrial.Application\Alten.ProductMaster.Application.csproj", "{902F204A-2E41-4500-8747-D7A749B16662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alten.ProductMaster.Infrastructure", "Alten.ProductMasterTrial.Infrastructure\Alten.ProductMaster.Infrastructure.csproj", "{6EF31042-5C4B-4E16-A963-0759FAFA072E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alten.ProductMaster.SharedKirnel", "Alten.ProductMaster.SharedKirnel\Alten.ProductMaster.SharedKirnel.csproj", "{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21D5936F-AA56-4B99-A458-10D51ED4F0FD}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Packages.props = Directory.Packages.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07C3185-56FD-4929-9D82-ACCEB7537B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07C3185-56FD-4929-9D82-ACCEB7537B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07C3185-56FD-4929-9D82-ACCEB7537B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07C3185-56FD-4929-9D82-ACCEB7537B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902F204A-2E41-4500-8747-D7A749B16662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902F204A-2E41-4500-8747-D7A749B16662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902F204A-2E41-4500-8747-D7A749B16662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902F204A-2E41-4500-8747-D7A749B16662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF31042-5C4B-4E16-A963-0759FAFA072E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF31042-5C4B-4E16-A963-0759FAFA072E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF31042-5C4B-4E16-A963-0759FAFA072E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF31042-5C4B-4E16-A963-0759FAFA072E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.csproj.AssemblyReference.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.AssemblyInfoInputs.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.AssemblyInfo.cs
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.csproj.CoreCompileInputs.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMasterTrial.Application.deps.json
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMasterTrial.Application.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMasterTrial.Application.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMaster.SharedKirnel.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMasterTrial.Domain.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMasterTrial.Domain.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\bin\Debug\net9.0\Alten.ProductMaster.SharedKirnel.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.Pr.3FF4C76A.Up2Date
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\refint\Alten.ProductMasterTrial.Application.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\Alten.ProductMasterTrial.Application.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Application\obj\Debug\net9.0\ref\Alten.ProductMasterTrial.Application.dll

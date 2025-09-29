@@ -1,0 +1,1353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\endpoints\\productsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\endpoints\\productsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\endpoints\\cartsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\endpoints\\cartsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\endpoints\\membersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\endpoints\\membersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\endpoints\\wishlistendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\endpoints\\wishlistendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\extentions\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\extentions\\addapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\extentions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\extentions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\extentions\\authenticationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\extentions\\authenticationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\attributes\\adminonlyendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\attributes\\adminonlyendpointfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\wishlistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\wishlistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\configuration\\wishlistitemconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\configuration\\wishlistitemconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\producttrialdbcontext\\producttrialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\producttrialdbcontext\\producttrialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\persistance\\repository\\efreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\persistance\\repository\\efreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\productmastertrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\productmastertrial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\alten.productmaster.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\alten.productmaster.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\whishlists\\addtowhishlist\\addtowhishlistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\whishlists\\addtowhishlist\\addtowhishlistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\wishlists\\wishlistbyuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\wishlists\\wishlistbyuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\whishlists\\addtowhishlist\\addtowhishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\whishlists\\addtowhishlist\\addtowhishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\carts\\removefromcart\\removefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\carts\\removefromcart\\removefromcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\carts\\addtocart\\addtocartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\carts\\addtocart\\addtocartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\carts\\removefromcart\\removefromcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\carts\\removefromcart\\removefromcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\carts\\addtocart\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\carts\\addtocart\\addtocartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\errors\\domainerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\errors\\domainerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\carts\\cartbyuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\carts\\cartbyuseridspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\alten.productmaster.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\alten.productmaster.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmaster.sharedkirnel\\alten.productmaster.sharedkirnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|solutionrelative:alten.productmaster.sharedkirnel\\alten.productmaster.sharedkirnel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\addproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\addproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\productresponses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\productresponses\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\addproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\addproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmaster.sharedkirnel\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|solutionrelative:alten.productmaster.sharedkirnel\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\members\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\members\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\members\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\members\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\whishlists\\removefromwhishlist\\removefromwishlistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\whishlists\\removefromwhishlist\\removefromwishlistcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\whishlists\\removefromwhishlist\\removefromwhishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\whishlists\\removefromwhishlist\\removefromwhishlistcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\getproductlist\\getproductlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\getproductlist\\getproductlistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\getproductlist\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\getproductlist\\getproductlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\getproductbycode\\getproductbycodequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\getproductbycode\\getproductbycodequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\getproductbycode\\getproductbycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\getproductbycode\\getproductbycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\products\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\products\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\members\\createmember\\createmembercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\members\\createmember\\createmembercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\members\\createmember\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\members\\createmember\\createmembercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\abstractions\\requesthandler\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\abstractions\\requesthandler\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.infrastructure\\migrations\\producttrialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF31042-5C4B-4E16-A963-0759FAFA072E}|Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj|solutionrelative:alten.productmastertrial.infrastructure\\migrations\\producttrialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\productmastertrial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C07C3185-56FD-4929-9D82-ACCEB7537B82}|productMasterTrial\\productMasterTrial.csproj|solutionrelative:productmastertrial\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmaster.sharedkirnel\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|solutionrelative:alten.productmaster.sharedkirnel\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\valueobjects\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\valueobjects\\inventorystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\products\\productspaginatedspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\products\\productspaginatedspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\products\\productbyshellidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\products\\productbyshellidspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\members\\memberbyemailandpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\members\\memberbyemailandpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\members\\memberbyemailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\members\\memberbyemailspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\valueobjects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.prouctmastertrial.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62F9F4C-050B-4F41-A2C8-ECB75D2FA740}|Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj|solutionrelative:alten.prouctmastertrial.domain\\valueobjects\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmaster.sharedkirnel\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F5E544-8DF3-40A2-B846-05B1719CC0DA}|Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj|solutionrelative:alten.productmaster.sharedkirnel\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\specifications\\products\\productbyinternalreferencespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\specifications\\products\\productbyinternalreferencespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\pagination\\paginiatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\pagination\\paginiatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|c:\\users\\mouin\\documents\\product-trial-master\\back\\productmastertrial\\productmastertrial\\alten.productmastertrial.application\\common\\repository\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902F204A-2E41-4500-8747-D7A749B16662}|Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj|solutionrelative:alten.productmastertrial.application\\common\\repository\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddApplicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\AddApplicationServices.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Extentions\\AddApplicationServices.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\AddApplicationServices.cs",
+              "RelativeToolTip": "productMasterTrial\\Extentions\\AddApplicationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:58:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfrastructureServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\InfrastructureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Extentions\\InfrastructureServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\InfrastructureServiceExtensions.cs",
+              "RelativeToolTip": "productMasterTrial\\Extentions\\InfrastructureServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:57:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\AuthenticationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Extentions\\AuthenticationServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Extentions\\AuthenticationServiceExtensions.cs",
+              "RelativeToolTip": "productMasterTrial\\Extentions\\AuthenticationServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:55:43.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MembersEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\MembersEndpoints.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Endpoints\\MembersEndpoints.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\MembersEndpoints.cs",
+              "RelativeToolTip": "productMasterTrial\\Endpoints\\MembersEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:49:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WishListEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\WishListEndpoints.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Endpoints\\WishListEndpoints.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\WishListEndpoints.cs",
+              "RelativeToolTip": "productMasterTrial\\Endpoints\\WishListEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:46:13.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\CartsEndpoints.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Endpoints\\CartsEndpoints.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\CartsEndpoints.cs",
+              "RelativeToolTip": "productMasterTrial\\Endpoints\\CartsEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:42:31.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\ProductsEndpoints.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Endpoints\\ProductsEndpoints.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Endpoints\\ProductsEndpoints.cs",
+              "RelativeToolTip": "productMasterTrial\\Endpoints\\ProductsEndpoints.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:37:47.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminOnlyEndpointFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Attributes\\AdminOnlyEndpointFilter.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Attributes\\AdminOnlyEndpointFilter.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Attributes\\AdminOnlyEndpointFilter.cs",
+              "RelativeToolTip": "productMasterTrial\\Attributes\\AdminOnlyEndpointFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:21:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Program.cs",
+              "RelativeDocumentMoniker": "productMasterTrial\\Program.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Program.cs",
+              "RelativeToolTip": "productMasterTrial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:34:27.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WishlistByUserIdSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\WishLists\\WishlistByUserIdSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\WishLists\\WishlistByUserIdSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\WishLists\\WishlistByUserIdSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\WishLists\\WishlistByUserIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:44:39.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WishlistItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\WishlistItem.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\WishlistItem.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\WishlistItem.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\WishlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:15:52.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddToWhishListCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:33:32.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductTrialDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\ProductTrialDbContext\\ProductTrialDbContext.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\ProductTrialDbContext\\ProductTrialDbContext.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\ProductTrialDbContext\\ProductTrialDbContext.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\ProductTrialDbContext\\ProductTrialDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:28:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EfReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfReadRepository.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfReadRepository.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfReadRepository.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:11:10.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Repository\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:11:16.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WishListItemConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListItemConfiguration .cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListItemConfiguration .cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListItemConfiguration .cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListItemConfiguration .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:55:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WishListConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListConfiguration.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListConfiguration.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\WishListConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:53:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:29:49.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\MemberConfiguration.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\MemberConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\MemberConfiguration.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\MemberConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:38:35.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartItemConfiguration.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:48:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartConfiguration.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartConfiguration.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartConfiguration.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Persistance\\Configuration\\CartConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:46:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:25:04.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:33:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Authentication\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Authentication\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Authentication\\JwtOptions.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Authentication\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:37:16.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddToCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:15:50.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "productMasterTrial",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\productMasterTrial.csproj",
+              "RelativeDocumentMoniker": "productMasterTrial\\productMasterTrial.csproj",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\productMasterTrial.csproj",
+              "RelativeToolTip": "productMasterTrial\\productMasterTrial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T02:08:45.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Alten.ProductMaster.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Alten.ProductMaster.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T20:55:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:01:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DomainErrors.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Errors\\DomainErrors.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Errors\\DomainErrors.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Errors\\DomainErrors.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Errors\\DomainErrors.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwFIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:37:10.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WishList.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\WishList.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\WishList.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\WishList.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\WishList.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAxwCsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:23:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\appsettings.json",
+              "RelativeDocumentMoniker": "productMasterTrial\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\appsettings.json",
+              "RelativeToolTip": "productMasterTrial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T02:58:54.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddToWhishListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\WhishLists\\AddToWhishList\\AddToWhishListCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:33:20.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAhwIgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:15:09.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddToCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Carts\\AddToCart\\AddToCartCommandHandler.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:18:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RemoveFromCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommandHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:12:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RemoveFromCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Carts\\RemoveFromCart\\RemoveFromCartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:12:57.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:36:23.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RemoveFromWhishListCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWhishListCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWhishListCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWhishListCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWhishListCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:46:27.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:16:13.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Alten.ProductMaster.SharedKirnel.csproj",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj",
+              "RelativeDocumentMoniker": "Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj",
+              "RelativeToolTip": "Alten.ProductMaster.SharedKirnel\\Alten.ProductMaster.SharedKirnel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T22:46:41.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartByUserIdSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Carts\\CartByUserIdSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Carts\\CartByUserIdSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Carts\\CartByUserIdSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Carts\\CartByUserIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:24:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:20:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Alten.ProductMaster.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Alten.ProductMaster.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T21:28:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\ProductResponses\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\ProductResponses\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\ProductResponses\\ProductResponse.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\ProductResponses\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:26:13.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\AddProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvzQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:05:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Result.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMaster.SharedKirnel\\Result.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Result.cs",
+              "RelativeToolTip": "Alten.ProductMaster.SharedKirnel\\Result.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:36:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:23:43.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:16:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Members\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:19:07.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RemoveFromWishlistCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWishlistCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWishlistCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWishlistCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\WhishLists\\RemoveFromWhishList\\RemoveFromWishlistCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:48:57.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetProductListQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQueryHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQueryHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:13:26.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetProductByCodeQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQuery.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQuery.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQuery.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:12:37.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T00:08:52.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Abstractions\\RequestHandler\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Abstractions\\RequestHandler\\IRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Abstractions\\RequestHandler\\IRequestHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Abstractions\\RequestHandler\\IRequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:58:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "productMasterTrial\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\Properties\\launchSettings.json",
+              "RelativeToolTip": "productMasterTrial\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T23:53:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CreateMemberCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommandHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommandHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:16:53.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateMemberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Members\\CreateMember\\CreateMemberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:16:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetProductByCodeQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQueryHandler.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQueryHandler.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\GetProductByCode\\GetProductByCodeQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:55:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetProductListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQuery.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQuery.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQuery.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\GetProductList\\GetProductListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:12:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Products\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:59:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProductTrialDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Migrations\\ProductTrialDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Migrations\\ProductTrialDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Migrations\\ProductTrialDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Migrations\\ProductTrialDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:41:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250928232426_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Infrastructure\\Migrations\\20250928232426_InitialCreate.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T23:24:26.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "productMasterTrial\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\productMasterTrial\\appsettings.Development.json",
+              "RelativeToolTip": "productMasterTrial\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T22:55:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\Entities\\Member.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T20:16:24.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "InventoryStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\InventoryStatus.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\InventoryStatus.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\InventoryStatus.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\InventoryStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:33:00.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMaster.SharedKirnel\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\ValueObject.cs",
+              "RelativeToolTip": "Alten.ProductMaster.SharedKirnel\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:36:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ProductsPaginatedSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductsPaginatedSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductsPaginatedSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductsPaginatedSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductsPaginatedSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:54:07.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductByShellIdSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByShellIdSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByShellIdSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByShellIdSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByShellIdSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:53:31.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MemberByEmailAndPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailAndPassword.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailAndPassword.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailAndPassword.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailAndPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T19:24:30.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MemberByEmailSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Members\\MemberByEmailSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T21:13:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\Email.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\Email.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\Email.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T18:02:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UserName.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\UserName.cs",
+              "RelativeDocumentMoniker": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\UserName.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProuctMasterTrial.Domain\\ValueObjects\\UserName.cs",
+              "RelativeToolTip": "Alten.ProuctMasterTrial.Domain\\ValueObjects\\UserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T20:23:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Error.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMaster.SharedKirnel\\Error.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMaster.SharedKirnel\\Error.cs",
+              "RelativeToolTip": "Alten.ProductMaster.SharedKirnel\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:35:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductByInternalReferenceSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByInternalReferenceSpecification.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByInternalReferenceSpecification.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByInternalReferenceSpecification.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Specifications\\Products\\ProductByInternalReferenceSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:51:01.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PaginiatedList.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Pagination\\PaginiatedList.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Pagination\\PaginiatedList.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Pagination\\PaginiatedList.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Pagination\\PaginiatedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:09:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:36:55.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Repository\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Alten.ProductMasterTrial.Application\\Common\\Repository\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Common\\Repository\\IReadRepository.cs",
+              "RelativeToolTip": "Alten.ProductMasterTrial.Application\\Common\\Repository\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:36:54.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

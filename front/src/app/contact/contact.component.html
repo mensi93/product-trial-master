@@ -1,0 +1,44 @@
+<h2>Contactez-nous</h2>
+
+<div class="row">
+    <form [formGroup]="contactForm" (ngSubmit)="submit()">
+        <!-- Email -->
+        <div class="field">
+            <label for="email">Email</label><br>
+            <input id="email" type="email" pInputText formControlName="email"
+                style="height: 2.5rem; border: 1px solid #3f51b5; border-radius: 4px; width: 30%;" />
+            <small *ngIf="contactForm.get('email')?.invalid && contactForm.get('email')?.touched" style="color: red;">
+                Veuillez entrer un email valide.
+            </small>
+        </div>
+
+        <!-- Message -->
+        <div>
+            <label for="message">Message</label><br>
+            <textarea id="message" rows="6" pInputTextarea formControlName="message"
+                style="border: 1px solid #3f51b5; border-radius: 4px;width: 30%; "></textarea>
+            <small *ngIf="contactForm.get('message')?.errors?.['required'] && contactForm.get('message')?.touched"
+                style="color: red;">
+                Le message est requis.
+            </small>
+            <small *ngIf="contactForm.get('message')?.errors?.['maxlength'] && contactForm.get('message')?.touched"
+                style="color: red;">
+                Le message doit contenir moins de 300 caractères.
+            </small>
+        </div>
+
+        <!-- Bouton Envoyer -->
+        <div class="field">
+            <button pButton type="submit" label="Envoyer"></button>
+        </div>
+    </form>
+
+</div>
+
+<!-- Dialog de confirmation -->
+<p-dialog header="Message" [(visible)]="showDialog" [closable]="true" [modal]="true" [style]="{ width: '400px' }">
+    <p>{{ dialogMessage }}</p>
+    <div style="margin-top: 1rem;">
+        <button pButton label="OK" (click)="closeDialog()"></button>
+    </div>
+</p-dialog>

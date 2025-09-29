@@ -1,0 +1,365 @@
+[
+  {
+    "ContainingType": "productMasterTrial.Endpoints.CartsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCartsEndpoints\u003Eb__0_0",
+    "RelativePath": "carts/add",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMaster.Application.Carts.AddToCart.AddToCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Domain.Entities.Cart",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Carts"
+    ],
+    "EndpointName": "AddToCart"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.CartsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapCartsEndpoints\u003Eb__0_1",
+    "RelativePath": "carts/remove",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMaster.Application.Carts.RemoveFromCart.RemoveFromCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Domain.Entities.Cart",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Carts"
+    ],
+    "EndpointName": "RemoveFromCart"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.MembersEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapMembersEndpoints\u003Eb__0_0",
+    "RelativePath": "members/account",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMasterTrial.Application.Members.CreateMember.CreateMemberCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Members"
+    ],
+    "EndpointName": "account"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.MembersEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapMembersEndpoints\u003Eb__0_1",
+    "RelativePath": "members/token",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMasterTrial.Application.Members.Login.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Members"
+    ],
+    "EndpointName": "token"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.ProductsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductsEndpoints\u003Eb__0_0",
+    "RelativePath": "products/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMasterTrial.Application.Products.AddProduct.CreateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Products"
+    ],
+    "EndpointName": "CreateProduct"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.ProductsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductsEndpoints\u003Eb__0_2",
+    "RelativePath": "products/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Application.Common.Pagination.PaginiatedList\u00601[[Alten.ProductMaster.Application.Products.ProductResponses.ProductResponse, Alten.ProductMaster.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Products"
+    ],
+    "EndpointName": "GetProductList"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.ProductsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductsEndpoints\u003Eb__0_1",
+    "RelativePath": "products/{code}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Application.Products.ProductResponses.ProductResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "Tags": [
+      "Products"
+    ],
+    "EndpointName": "GetProductByCode"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.ProductsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductsEndpoints\u003Eb__0_3",
+    "RelativePath": "products/{code}",
+    "HttpMethod": "PUT",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMasterTrial.Application.Products.UpdateProduct.UpdateProductCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Products"
+    ],
+    "EndpointName": "UpdateProduct"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.ProductsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductsEndpoints\u003Eb__0_4",
+    "RelativePath": "products/{code}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "Products"
+    ],
+    "EndpointName": "DeleteProduct"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.WishListEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapWishListEndpoints\u003Eb__0_0",
+    "RelativePath": "wishlist/add",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMaster.Application.WhishLists.AddToWhishList.AddToWishlistCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Domain.Entities.WishList",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "WishLists"
+    ],
+    "EndpointName": "AddToWishlist"
+  },
+  {
+    "ContainingType": "productMasterTrial.Endpoints.WishListEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapWishListEndpoints\u003Eb__0_1",
+    "RelativePath": "wishlist/remove",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Alten.ProductMaster.Application.WhishLists.RemoveFromWhishList.RemoveFromWhishListCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Alten.ProductMaster.Domain.Entities.WishList",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 400
+      }
+    ],
+    "Tags": [
+      "WishLists"
+    ],
+    "EndpointName": "RemoveFromWishlist"
+  }
+]

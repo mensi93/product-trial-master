@@ -1,0 +1,12 @@
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\bin\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.deps.json
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\bin\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\bin\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.csproj.AssemblyReference.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.AssemblyInfoInputs.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.AssemblyInfo.cs
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.csproj.CoreCompileInputs.cache
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\refint\Alten.ProductMasterTrial.Infrastructure.dll
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\Alten.ProductMasterTrial.Infrastructure.pdb
+C:\projects\productMasterTrial\Alten.ProductMasterTrial.Infrastructure\obj\Debug\net9.0\ref\Alten.ProductMasterTrial.Infrastructure.dll

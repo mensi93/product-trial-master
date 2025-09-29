@@ -1,0 +1,15 @@
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.csproj.AssemblyReference.cache
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.AssemblyInfoInputs.cache
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.AssemblyInfo.cs
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.csproj.CoreCompileInputs.cache
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\bin\Debug\net9.0\Alten.ProductMasterTrial.Domain.deps.json
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\bin\Debug\net9.0\Alten.ProductMasterTrial.Domain.dll
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\bin\Debug\net9.0\Alten.ProductMasterTrial.Domain.pdb
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\bin\Debug\net9.0\Alten.ProductMaster.SharedKirnel.dll
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\bin\Debug\net9.0\Alten.ProductMaster.SharedKirnel.pdb
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.Pr.2D8C7D88.Up2Date
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.dll
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\refint\Alten.ProductMasterTrial.Domain.dll
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\Alten.ProductMasterTrial.Domain.pdb
+C:\projects\productMasterTrial\Alten.ProuctMasterTrial.Domain\obj\Debug\net9.0\ref\Alten.ProductMasterTrial.Domain.dll

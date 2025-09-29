@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SSQBvQIKj/U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mouin\\Documents\\product-trial-master\\back\\productMasterTrial\\productMasterTrial\\Alten.ProductMasterTrial.Application\\Alten.ProductMaster.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouin\\.nuget\\packages\\ardalis.specification\\9.3.1\\ardalis.specification.9.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
