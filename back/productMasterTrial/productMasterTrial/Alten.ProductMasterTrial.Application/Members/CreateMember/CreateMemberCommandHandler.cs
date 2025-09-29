@@ -1,4 +1,5 @@
-﻿using Alten.ProductMaster.Application.Specifications.Members;
+using Alten.ProductMaster.Application.Authentication;
+using Alten.ProductMaster.Application.Specifications.Members;
 using Alten.ProductMasterTrial.Application.Common.Abstractions.RequestHandler;
 using Alten.ProductMasterTrial.Application.Common.Interfaces;
 using Alten.ProductMasterTrial.Domain.Entities;
@@ -15,8 +16,10 @@ namespace Alten.ProductMasterTrial.Application.Members.CreateMember
         }
         public async Task<Result> Handle(CreateMemberCommand command)
         {
-            //todo : passwordhash
-            var memberResult = Member.Create(command.username, command.firstName, command.email, command.password);
+
+            var hashedPassword = PasswordHasher.Hash(command.password);
+
+            var memberResult = Member.Create(command.username, command.firstName, command.email, hashedPassword);
 
             if (memberResult.IsFailure)
             {
